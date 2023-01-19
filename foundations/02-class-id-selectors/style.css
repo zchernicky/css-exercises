@@ -2,3 +2,8 @@
     background-color: #FF8BA0;
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
+
+#id-attribute {
+    color: blue;
+    font-size: 36px;
+}
