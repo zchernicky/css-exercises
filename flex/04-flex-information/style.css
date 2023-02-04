@@ -14,6 +14,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
@@ -33,10 +34,14 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+  gap: 52px;
 }
 
 .flex-item {
   display: flex;
   flex-direction: column;
   flex-basis: 200px;
+  flex-wrap: wrap;
+  align-items: center;
+  text-align: center;
 }
